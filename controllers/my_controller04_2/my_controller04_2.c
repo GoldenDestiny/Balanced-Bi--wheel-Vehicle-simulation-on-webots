@@ -130,7 +130,7 @@ wb_motor_set_velocity(right_motor, 0);
      }
      else 
      {
-       aimAngle = -1;
+       aimAngle = 0;
        turn_left = 50;
        turn_right = -50;
      }
